@@ -4,35 +4,35 @@ we propose novel cycle-consistent adversarial networks with a multi-scale hybrid
 
 ## Architecture of generators network with a multi-scale hybrid encoder-decoder.
 
-![](https://github.com/libiezhiwen/Single-Image-dehazing/blob/main/image/frame.jpg)
+![](https://github.com/libiezhiwen/cycle-image-dehazing/blob/main/image/frame.jpg)
 
 ## The detailed architecture of hybrid-encoding block.
 
-![](https://github.com/libiezhiwen/Single-Image-dehazing/blob/main/image/block_frame.png)
+![](https://github.com/libiezhiwen/cycle-image-dehazing/blob/main/image/block_frame.png)
 
 ## Results
 
-![](https://github.com/libiezhiwen/Single-Image-dehazing/blob/main/image/NYU.png)
+![](https://github.com/libiezhiwen/cycle-image-dehazing/blob/main/image/NYU.png)
 
 *Fig. 1. Comparison of qualitative results on the NYU-Depth dataset.
 
-![](https://github.com/libiezhiwen/Single-Image-dehazing/blob/main/image/Midd.png)
+![](https://github.com/libiezhiwen/cycle-image-dehazing/blob/main/image/Midd.png)
 
 *Fig. 2. Comparison of qualitative results on the Middlebury dataset.
 
-![](https://github.com/libiezhiwen/Single-Image-dehazing/blob/main/image/indoor.png)
+![](https://github.com/libiezhiwen/cycle-image-dehazing/blob/main/image/indoor.png)
 
 *Fig. 3. Comparison of qualitative results on the Indoor SOTS dataset.
 
-![](https://github.com/libiezhiwen/Single-Image-dehazing/blob/main/image/OHAZE.png)
+![](https://github.com/libiezhiwen/cycle-image-dehazing/blob/main/image/OHAZE.png)
 
 *Fig. 4. Comparison of qualitative results on the O-HAZE dataset.
 
-![](https://github.com/libiezhiwen/Single-Image-dehazing/blob/main/image/sea-fog.jpg)
+![](https://github.com/libiezhiwen/cycle-image-dehazing/blob/main/image/sea-fog.jpg)
 
 *Fig. 5. Comparison of qualitative results on the Sea-fog dataset.
 
-![](https://github.com/libiezhiwen/Single-Image-dehazing/blob/main/image/real.jpg)
+![](https://github.com/libiezhiwen/cycle-image-dehazing/blob/main/image/real.jpg)
 
 *Fig. 6. Comparison of qualitative results on the real-world images.
 
